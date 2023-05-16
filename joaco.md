@@ -6,5 +6,5 @@ Soy estudiante de 2do año Ing. en Sistemas en la UTN FRM y estoy empezando en e
 
 joaquin_rodriguez02@hotmail.com.ar
 
-# pizza_referida 
+# pizza_preferida 
 Tropical sin dudas.
